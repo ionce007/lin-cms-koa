@@ -3,7 +3,7 @@
 module.exports = {
   db: {
     database: 'stockcms',
-    host: 'mysqlsqlpub.com',
+    host: 'mysql.sqlpub.com',
     dialect: 'mysql',
     port: 3306,
     username: 'ioncehm',
