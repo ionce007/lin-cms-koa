@@ -2,12 +2,12 @@
 
 module.exports = {
   db: {
-    database: 'lin-cms',
-    host: 'localhost',
+    database: 'stockcms',
+    host: 'mysqlsqlpub.com',
     dialect: 'mysql',
     port: 3306,
-    username: 'root',
-    password: '123456',
+    username: 'ioncehm',
+    password: '0b1a6c1aa061f05b',
     logging: false,
     timezone: '+08:00',
     define: {
